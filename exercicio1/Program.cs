@@ -17,3 +17,18 @@ else if (idade <= 18)
             Console.WriteLine("Sua entrada não é permitida.");
     }
 }
+bool possuiPresencaMinima = false; // Exemplo de presença mínima
+double media = 7.5; // Exemplo de média
+
+if (possuiPresencaMinima && media > 7)
+{
+    Console.WriteLine("Aprovado.");
+}
+else if (!possuiPresencaMinima)
+{
+    Console.WriteLine("Reprovado por falta de presença mínima.");
+}
+else
+{
+    Console.WriteLine("Reprovado por média insuficiente.");
+}
