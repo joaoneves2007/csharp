@@ -32,3 +32,18 @@ else
 {
     Console.WriteLine("Reprovado por média insuficiente.");
 }
+bool choveu = false; // Exemplo: verifica se choveu
+bool estaTarde = true; // Exemplo: verifica se está tarde
+
+if (choveu)
+{
+    Console.WriteLine("Choveu. Vou pedalar outro dia.");
+}
+else if (!choveu && estaTarde)
+{
+    Console.WriteLine("Não choveu, mas está tarde. Vou pedalar outro dia.");
+}
+else if (!choveu && !estaTarde)
+{
+    Console.WriteLine("Não choveu e não está tarde. Vou pedalar!");
+}
