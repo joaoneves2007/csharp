@@ -1,0 +1,15 @@
+T:\Workspace\João Neves\csharp\condicionais\bin\Debug\net9.0\condicionais.exe
+T:\Workspace\João Neves\csharp\condicionais\bin\Debug\net9.0\condicionais.deps.json
+T:\Workspace\João Neves\csharp\condicionais\bin\Debug\net9.0\condicionais.runtimeconfig.json
+T:\Workspace\João Neves\csharp\condicionais\bin\Debug\net9.0\condicionais.dll
+T:\Workspace\João Neves\csharp\condicionais\bin\Debug\net9.0\condicionais.pdb
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\condicionais.AssemblyInfoInputs.cache
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\condicionais.AssemblyInfo.cs
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\condicionais.csproj.CoreCompileInputs.cache
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\condicionais.sourcelink.json
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\condicionais.dll
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\refint\condicionais.dll
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\condicionais.pdb
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\condicionais.genruntimeconfig.cache
+T:\Workspace\João Neves\csharp\condicionais\obj\Debug\net9.0\ref\condicionais.dll
