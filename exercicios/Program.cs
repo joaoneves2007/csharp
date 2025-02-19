@@ -1,46 +1,107 @@
 ﻿// See https://aka.ms/new-console-template for more information 
-// Soma dos números pares de 1 a 100
-soma = 0
-for i in range(1, 101):
-    if i % 2 == 0:
-        soma += i
-print("A soma dos números pares de 1 a 100 é:", soma)
+using System;
 
-//Contagem regressiva de 10 a 1
-for i in range(10, 0, -1):
-    print(i)
-print("Decolagem!")
+class Program
+{
+    static void Main()
+    {
+        int soma = 0;
+        for (int i = 1; i <= 100; i++)
+        {
+            if (i % 2 == 0)
+            {
+                soma += i;
+            }
+        }
+        Console.WriteLine("A soma dos números pares de 1 a 100 é: " + soma);
+    }
+}
+using System;
 
-//Contagem de vogais em uma palavra
-palavra = input("Digite uma palavra: ")
-vogais = "aeiouAEIOU"
-contador = 0
-for letra in palavra:
-    if letra in vogais:
-        contador += 1
-print("O número de vogais na palavra é:", contador)
+class Program
+{
+    static void Main()
+    {
+        for (int i = 10; i >= 1; i--)
+        {
+            Console.WriteLine(i);
+        }
+        Console.WriteLine("Decolagem!");
+    }
+}
+using System;
 
-//Verificação de palíndromo
-texto = input("Digite uma palavra ou frase: ")
-texto_limpo = texto.replace(" ", "").lower()
-if texto_limpo == texto_limpo[::-1]:
-    print("É um palíndromo!")
-else:
-    print("Não é um palíndromo.")
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Digite uma palavra: ");
+        string palavra = Console.ReadLine();
+        string vogais = "aeiouAEIOU";
+        int contador = 0;
 
-//Jogo de adivinhação
-import random
+        foreach (char letra in palavra)
+        {
+            if (vogais.Contains(letra))
+            {
+                contador++;
+            }
+        }
+        Console.WriteLine("O número de vogais na palavra é: " + contador);
+    }
+}
+using System;
 
-numero_secreto = random.randint(1, 100)
-tentativas = 0
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Digite uma palavra ou frase: ");
+        string texto = Console.ReadLine();
+        string textoLimpo = texto.Replace(" ", "").ToLower();
+        char[] arr = textoLimpo.ToCharArray();
+        Array.Reverse(arr);
+        string textoInvertido = new string(arr);
 
-while True:
-    tentativa = int(input("Adivinhe o número entre 1 e 100: "))
-    tentativas += 1
-    if tentativa < numero_secreto:
-        print("O número é maior.")
-    elif tentativa > numero_secreto:
-        print("O número é menor.")
-    else:
-        print(f"Parabéns! Você acertou o número em {tentativas} tentativas.")
-        break
+        if (textoLimpo == textoInvertido)
+        {
+            Console.WriteLine("É um palíndromo!");
+        }
+        else
+        {
+            Console.WriteLine("Não é um palíndromo.");
+        }
+    }
+}
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Random random = new Random();
+        int numeroSecreto = random.Next(1, 101);
+        int tentativas = 0;
+
+        while (true)
+        {
+            Console.Write("Adivinhe o número entre 1 e 100: ");
+            int tentativa = int.Parse(Console.ReadLine());
+            tentativas++;
+
+            if (tentativa < numeroSecreto)
+            {
+                Console.WriteLine("O número é maior.");
+            }
+            else if (tentativa > numeroSecreto)
+            {
+                Console.WriteLine("O número é menor.");
+            }
+            else
+            {
+                Console.WriteLine($"Parabéns! Você acertou o número em {tentativas} tentativas.");
+                break;
+            }
+        }
+    }
+}
