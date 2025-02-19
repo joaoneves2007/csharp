@@ -1,0 +1,15 @@
+T:\Workspace\João Neves\csharp\exercicios\bin\Debug\net9.0\exercicios.exe
+T:\Workspace\João Neves\csharp\exercicios\bin\Debug\net9.0\exercicios.deps.json
+T:\Workspace\João Neves\csharp\exercicios\bin\Debug\net9.0\exercicios.runtimeconfig.json
+T:\Workspace\João Neves\csharp\exercicios\bin\Debug\net9.0\exercicios.dll
+T:\Workspace\João Neves\csharp\exercicios\bin\Debug\net9.0\exercicios.pdb
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfoInputs.cache
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfo.cs
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\exercicios.csproj.CoreCompileInputs.cache
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\exercicios.sourcelink.json
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\exercicios.dll
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\refint\exercicios.dll
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\exercicios.pdb
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\exercicios.genruntimeconfig.cache
+T:\Workspace\João Neves\csharp\exercicios\obj\Debug\net9.0\ref\exercicios.dll

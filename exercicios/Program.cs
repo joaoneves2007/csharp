@@ -1,10 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information 
-using System;
-
-class Program
-{
-    static void Main()
-    {
         int soma = 0;
         for (int i = 1; i <= 100; i++)
         {
@@ -14,27 +8,15 @@ class Program
             }
         }
         Console.WriteLine("A soma dos números pares de 1 a 100 é: " + soma);
-    }
-}
-using System;
+    
 
-class Program
-{
-    static void Main()
-    {
         for (int i = 10; i >= 1; i--)
         {
             Console.WriteLine(i);
         }
         Console.WriteLine("Decolagem!");
-    }
-}
-using System;
+    
 
-class Program
-{
-    static void Main()
-    {
         Console.Write("Digite uma palavra: ");
         string palavra = Console.ReadLine();
         string vogais = "aeiouAEIOU";
@@ -48,14 +30,7 @@ class Program
             }
         }
         Console.WriteLine("O número de vogais na palavra é: " + contador);
-    }
-}
-using System;
 
-class Program
-{
-    static void Main()
-    {
         Console.Write("Digite uma palavra ou frase: ");
         string texto = Console.ReadLine();
         string textoLimpo = texto.Replace(" ", "").ToLower();
@@ -71,14 +46,7 @@ class Program
         {
             Console.WriteLine("Não é um palíndromo.");
         }
-    }
-}
-using System;
 
-class Program
-{
-    static void Main()
-    {
         Random random = new Random();
         int numeroSecreto = random.Next(1, 101);
         int tentativas = 0;
@@ -103,5 +71,3 @@ class Program
                 break;
             }
         }
-    }
-}
