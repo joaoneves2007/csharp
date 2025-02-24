@@ -1,0 +1,15 @@
+T:\Workspace\João Neves\csharp\estruturas-dados\bin\Debug\net9.0\estruturas-dados.exe
+T:\Workspace\João Neves\csharp\estruturas-dados\bin\Debug\net9.0\estruturas-dados.deps.json
+T:\Workspace\João Neves\csharp\estruturas-dados\bin\Debug\net9.0\estruturas-dados.runtimeconfig.json
+T:\Workspace\João Neves\csharp\estruturas-dados\bin\Debug\net9.0\estruturas-dados.dll
+T:\Workspace\João Neves\csharp\estruturas-dados\bin\Debug\net9.0\estruturas-dados.pdb
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\estruturas-dados.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\estruturas-dados.AssemblyInfoInputs.cache
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\estruturas-dados.AssemblyInfo.cs
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\estruturas-dados.csproj.CoreCompileInputs.cache
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\estruturas-dados.sourcelink.json
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\estruturas-dados.dll
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\refint\estruturas-dados.dll
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\estruturas-dados.pdb
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\estruturas-dados.genruntimeconfig.cache
+T:\Workspace\João Neves\csharp\estruturas-dados\obj\Debug\net9.0\ref\estruturas-dados.dll
